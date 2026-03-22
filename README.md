@@ -95,5 +95,3 @@ This project demonstrates how machine learning can effectively classify breast c
 
 ---
 
-## 👩‍💻 Author
-- *Your Name*
